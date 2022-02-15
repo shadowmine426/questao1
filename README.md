@@ -1,2 +1,3 @@
-As tecnologias utilizadas foi a linhaguem em C, a ide replit juntamente com o codeblocks pois no replit não recebia algumas funcões especificas para a questão 3. 
-na questão 3 infelizmente não obtive conhecimento suficiente para terminalá.
+linguagem : c
+IDE:replit e  CODE BLOCKS
+FALTA DECONHECIMENTO PARA TERMINAR A QUESTÃO 3
